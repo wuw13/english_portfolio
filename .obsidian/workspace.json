@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maus - Cultural Presentation.md",
+                "file": "Mrs. Midas - Individual Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maus - Cultural Presentation"
+              "title": "Mrs. Midas - Individual Notes"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medusa Class Essay.md",
+                "file": "Little Red Cap - Group Activity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medusa Class Essay"
+              "title": "Little Red Cap - Group Activity"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mrs. Midas.md",
+                "file": "Little Red Cap - Group Activity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mrs. Midas"
+              "title": "Little Red Cap - Group Activity"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,12 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "adee735183a84bdc",
+  "active": "8d1e600eecec10ae",
   "lastOpenFiles": [
-    "Queen Herod.md",
     "Maus - Cultural Presentation.md",
-    "Medusa Class Essay.md",
+    "Medusa Class Essay - Class Work.md",
     "Little Red Cap - Group Activity.md",
-    "Mrs. Midas.md"
+    "Mrs. Midas - Individual Notes.md",
+    "Queen Herod (WIP).md"
   ]
 }

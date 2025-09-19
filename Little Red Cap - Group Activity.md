@@ -1,7 +1,5 @@
 Group Activity
 
- 
-
 ***Whole poem:***
 
 Try to come up with at least 3 different global issues that you can identify within the poem. Write your global issue clearly, and share what Field of Inquiry it belongs to. Choose one quote that you feel best demonstrates the global issue.
@@ -40,20 +38,9 @@ Look closely at this stanza. Collect words and phrases that are used to describe
 
  
 
-| Wolf Words | Connotations | Narrator | Connotations |
-| ----- | ----- | ----- | ----- |
-|   |   | *Sweet sixteen*   |  Sixteen is typically the legal age of consent, and also in some areas, the phrase “Sweet sixteen” can be seen as the age for a person to go on dates. |
-|   |   |  *Never been*   |   |
-|   |   |  *Babe*   |  Could link to how she is innocent and still a virgin, especially after saying never been. |
-|   |   |  *Waif*   |  “Waif” Means neglected or not given attention so she is seeking for attention (possibly sexual, possibly just love).  |
-|   |   |       |   |
-|   |   |     |   |
-
 **Stanza 3 *Metaphors***
 
 Find a metaphorical phrase that suggests the following:
-
- 
 
 |  Sexual Adventure   |  “Lead me deep into the woods” |
 | :---- | :---- |
@@ -62,17 +49,8 @@ Find a metaphorical phrase that suggests the following:
 |  Leaving childhood behind   |  “Away from home, to a dark tangled thorny place” |
 |  ‘Stranger danger’   |  “My stockings ripped to shreds, scraps of red from my blazer” |
 
- 
 
 ·       What do you think the poet is saying in this stanza about the *need to write*?
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -88,11 +66,9 @@ Find a metaphorical phrase that suggests the following:
 |  Punctuation for effect   |  “- white dove \-“ |  The dashes isolate “white dove” as an interjection, which creates a dramatic emphasis that disrupts the previous narrative rhythm. This could potentially highlight the shift in the wolves' character from a dark person into a pure person. |
 |  Ceasura   | .  “It was there that I first clapped eyes on the wolf” “He stood in a clearing” |  Duffy uses the Ceasura to show the audience the difference in both age and them as people. This is shown repeatedly in the poem as well, by repeatedly adding enjambments to really highlight the difference between Duffy and Henri. Gurt: |
 
- 
+
 
 ·       How is the white dove connected to the love poem?
-
- 
 
  
 

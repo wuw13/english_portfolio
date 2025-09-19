@@ -1,6 +1,7 @@
-**Extract of My Work**
+**Extract of Individual Class Work**
 
 **Stanza 7**  
+...
 The repetition of “your girls” suggests that her partner had multiple relationships, implying his lack of loyalty. The plural “girls” omits the identity of these women, suggesting plenty of victims, and a lack of individual importance to her partner. This is reinforced by the possessive adjective “your”, which shows the objectification of women as mere tools for pleasure. The repetition invokes a sense of spite and pity, both in the sense that the dramatic monologue reveals Medusa’s spite for her past partner as well as a sense of pity and sorrow for the other women her partner has relationships with, that could suffer, or had suffered, a similar fate as her own.  
   
 The next 2 lines, “Wasn’t I beautiful // Wasn’t I fragrant and young?” are lyrical, both containing lexical sets of qualities connoting with traditional feminine aesthetic values. This is in stark contrast with the gradual transformation to a cold and heartless gorgon during the previous stanzas. The sharp change in tone in combination with a rhetorical question suggests a sense of despair and how she still desires him, but the single sentence, imperative “Look at me now.” acts as a reversal of the tone again invokes a sense of judgement. Through the sharp changes in tone, Duffy conveys an intent for Medusa to invoke guilt to her partner, but also sympathy, not without fear, from the readers for her experiences.
