@@ -1,0 +1,5 @@
+**Extract of My Work**
+
+`Focuses on: Love of mother for her daughter / Only Mother(hood)`
+
+The poem presents the strength and perhaps twisted form of maternity love. Regardless of intention, Queen Herod ordered the massacre of children literally by quote: “...kill each mother’s son. // Do it. Spare not one.”. Furthermore, given historical context, Jesus did not in fact take King Herod’s throne despite the king’s fears, and Herod the Great died due to natural causes while on his throne. Given that this piece of text is a modified version of the biblical story, it is reasonable to assume the events would play out in a similar fashion, such that the prophesied “boyfriend” would escape the massacre during his birth, like Jesus. Likewise, similarly to Jesus, after the ‘Massacre of Innocent’, the fears were redundant and the prophesied ‘boyfriend’ will not in fact marry Queen Herod’s daughter despite her fears. Therefore, the only consequences were that a town of innocent children would be sacrificed. Queen Herod is a good mother who is willing to do anything for her daughter, but a fiend queen who will sacrifice thousands of innocents for a mere rootless prophecy.
